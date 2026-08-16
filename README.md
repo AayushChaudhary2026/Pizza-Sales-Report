@@ -142,9 +142,9 @@ Pizza-Sales-Dashboard/
     └── pizza_sales.csv
 📷 Dashboard Screenshots
 Home Page
-<img src="screenshots/Report Part-1.png" width="100%">
+<img src="Report Part-1.png" width="100%">
 Best/Worst Seller Page
-<img src="screenshots/Report Part-2.png" width="100%">
+<img src="Report Part-2.png" width="100%">
 
 
 
