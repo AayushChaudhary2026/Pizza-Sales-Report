@@ -142,15 +142,11 @@ Pizza-Sales-Dashboard/
     └── pizza_sales.csv
 📷 Dashboard Screenshots
 Home Page
-
-Add your Home dashboard screenshot here:
-
-![Pizza Sales Dashboard - Home](screenshots/Report Part-1.png)
+<img src="screenshots/Report Part-1.png" width="100%">
 Best/Worst Seller Page
+<img src="screenshots/Report Part-2.png" width="100%">
 
-Add your Best/Worst Seller screenshot here:
 
-![Pizza Sales Dashboard - Best Worst Seller](screenshots/Report Part-2.png)
 
 📈 Business Value
 This dashboard can help a pizza business:
